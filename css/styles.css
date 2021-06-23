@@ -1,0 +1,80 @@
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  font-size: 3rem;
+}
+
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+
+.nav-link {
+  margin-left: 30px;
+  font-size: 1.5rem;
+}
+
+.rotated-img {
+  transform: rotate(20deg);
+  height:500px;
+  position:absolute;
+  z-index: 0;
+}
+
+.typ-padding {
+  padding: 2% 15%;
+}
+
+#title {
+  background-color: #ff4c68;
+  padding-bottom: 50px;
+}
+
+#features {
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+
+#testimonials {
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+}
+
+#pricing {
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.feature{
+  text-align: center;
+}
+
+.feature-text {
+  padding: 0 50px;
+}
+
+.feature-icon {
+  color: #ff4c68;
+}
+
+.testimonial-text {
+  font-size: 20px;
+  padding: 0 75px;
+}
+
+.testimonial-image {
+  border-radius: 50%;
+  height: 100px;
+}
+
+.press-image {
+  width: 150px;
+  padding-top: 50px;
+}
+
+.pricing-button {
+  width: 100%;
+}
